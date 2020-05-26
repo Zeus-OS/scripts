@@ -49,7 +49,8 @@ fi
 
 # Copying generated Changelog and .json file and committing changes
 cp "${OUT}/${DEVICE}.json" ./
-cp "${OUT}/Changelog.txt" ./
+cp "${OUT}/system/etc/Changelog.txt" ./
+
 cd ..
 git add .
 git commit -m "${DEVICE}: ${DATE} update"
