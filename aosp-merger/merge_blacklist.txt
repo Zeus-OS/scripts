@@ -85,3 +85,10 @@ vendor/lawnchair
 vendor/nxp/opensource/pn5xx/halimpl
 vendor/nxp/opensource/sn100x/halimpl
 vendor/qcom/opensource/usb
+packages/apps/DownloadProvider
+packages/apps/PermissionController
+packages/apps/FaceUnlockService
+vendor/lineage
+vendor/opstuff
+vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
+hardware/xiaomi
